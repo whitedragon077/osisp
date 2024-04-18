@@ -1,6 +1,0 @@
-directory
-main
-main.c
-softlink
-text2.txt
-text.txt

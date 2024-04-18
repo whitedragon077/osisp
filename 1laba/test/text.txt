@@ -1,3 +1,0 @@
-итого 4
--rw-r--r--. 1 pollini pollini 12 апр 18 01:41 test.txt
--rw-r--r--. 1 pollini pollini  0 апр 18 01:44 text.txt
