@@ -1,0 +1,4 @@
+итого 4
+-rw-r--r--. 1 pollini pollini   0 апр 18 01:44 test.txt
+-rw-r--r--. 1 pollini pollini 129 апр 18 01:44 text.txt
+Hello world
